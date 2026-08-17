@@ -1,14 +1,9 @@
 # 💫 About Me:
-Actualmente Soy Estudiante De Desarrollo de Software apasionada por la tecnología, la programación y el aprendizaje de nuevas herramientas. Me interesa todo lo relacionado con la creación de páginas web, aplicaciones y soluciones digitales.
+Actualmente soy estudiante de Desarrollo de Software, apasionada por la tecnología, la programación y la adquisición de nuevas habilidades. Me interesa todo lo relacionado con la creación de páginas web, aplicaciones y soluciones digitales.
 
-Actualmente estoy estudiando Desarrollo de Software, donde estoy adquiriendo conocimientos sobre programación y diseño web. Me gusta aprender cosas nuevas, experimentar con diferentes herramientas y poner en práctica lo aprendido mediante proyectos escolares y personales. También me interesa mejorar mi capacidad para resolver problemas y encontrar soluciones creativas utilizando la tecnología.
+Actualmente estudio Desarrollo de Software, donde estoy adquiriendo conocimientos sobre programación y diseño web. Me gusta conocer cosas nuevas, experimentar con diferentes herramientas y poner en práctica lo que sé mediante proyectos escolares y personales. También me interesa mejorar mi capacidad para resolver problemas y encontrar soluciones creativas utilizando la tecnología.
 
-Estoy trabajando en proyectos personales y escolares para practicar mis conocimientos y adquirir experiencia.
-Actualmente estoy aprendiendo HTML, CSS, programación y desarrollo web.
-Me interesa seguir aprendiendo nuevos lenguajes de programación y herramientas tecnológicas.
-Me gustaría participar y colaborar en proyectos donde pueda aportar mis ideas y aprender de otras personas.
-Busco mejorar constantemente mis habilidades y adquirir nuevos conocimientos relacionados con el desarrollo de software.
-Mi objetivo es continuar preparándome, crecer profesionalmente y convertirme en una desarrolladora de software profesional capaz de crear proyectos útiles e innovadores.
+Estoy trabajando en proyectos personales y escolares para practicar mis conocimientos y adquirir experiencia. Actualmente me especializo en HTML, CSS, programación y desarrollo web. Me interesa conocer nuevos lenguajes de programación y herramientas tecnológicas. Me gustaría participar y colaborar en proyectos donde pueda aportar mis ideas y adquirir experiencia junto a otras personas. Busco mejorar constantemente mis habilidades y ampliar mis conocimientos relacionados con el desarrollo de software. Mi objetivo es continuar preparándome, crecer profesionalmente y convertirme en una desarrolladora de software profesional, capaz de crear proyectos útiles e innovadores.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:19773514@clases.edu.sv) 
